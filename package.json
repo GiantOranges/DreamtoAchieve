@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GiantOranges/DreamtoAchieve/issues"
   },
-  "homepage": "https://github.com/GiantOranges/DreamtoAchieve#readme"
+  "homepage": "https://github.com/GiantOranges/DreamtoAchieve#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
